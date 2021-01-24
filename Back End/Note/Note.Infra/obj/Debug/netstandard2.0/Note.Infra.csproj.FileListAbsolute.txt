@@ -1,0 +1,12 @@
+C:\Users\Charly\source\repos\Note\Note.Infra\bin\Debug\netstandard2.0\Note.Core.dll
+C:\Users\Charly\source\repos\Note\Note.Infra\obj\Debug\netstandard2.0\Note.Infra.csprojAssemblyReference.cache
+C:\Users\Charly\source\repos\Note\Note.Infra\obj\Debug\netstandard2.0\Note.Infra.AssemblyInfoInputs.cache
+C:\Users\Charly\source\repos\Note\Note.Infra\obj\Debug\netstandard2.0\Note.Infra.AssemblyInfo.cs
+C:\Users\Charly\source\repos\Note\Note.Infra\obj\Debug\netstandard2.0\Note.Infra.csproj.CoreCompileInputs.cache
+C:\Users\Charly\source\repos\Note\Note.Infra\bin\Debug\netstandard2.0\Note.Infra.deps.json
+C:\Users\Charly\source\repos\Note\Note.Infra\bin\Debug\netstandard2.0\Note.Infra.dll
+C:\Users\Charly\source\repos\Note\Note.Infra\bin\Debug\netstandard2.0\Note.Infra.pdb
+C:\Users\Charly\source\repos\Note\Note.Infra\bin\Debug\netstandard2.0\Note.Core.pdb
+C:\Users\Charly\source\repos\Note\Note.Infra\obj\Debug\netstandard2.0\Note.Infra.csproj.CopyComplete
+C:\Users\Charly\source\repos\Note\Note.Infra\obj\Debug\netstandard2.0\Note.Infra.dll
+C:\Users\Charly\source\repos\Note\Note.Infra\obj\Debug\netstandard2.0\Note.Infra.pdb

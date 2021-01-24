@@ -1,0 +1,9 @@
+C:\Users\Charly\source\repos\Note\Note.Core\obj\Debug\netstandard2.0\Note.Core.csprojAssemblyReference.cache
+C:\Users\Charly\source\repos\Note\Note.Core\obj\Debug\netstandard2.0\Note.Core.AssemblyInfoInputs.cache
+C:\Users\Charly\source\repos\Note\Note.Core\obj\Debug\netstandard2.0\Note.Core.AssemblyInfo.cs
+C:\Users\Charly\source\repos\Note\Note.Core\obj\Debug\netstandard2.0\Note.Core.csproj.CoreCompileInputs.cache
+C:\Users\Charly\source\repos\Note\Note.Core\bin\Debug\netstandard2.0\Note.Core.deps.json
+C:\Users\Charly\source\repos\Note\Note.Core\bin\Debug\netstandard2.0\Note.Core.dll
+C:\Users\Charly\source\repos\Note\Note.Core\bin\Debug\netstandard2.0\Note.Core.pdb
+C:\Users\Charly\source\repos\Note\Note.Core\obj\Debug\netstandard2.0\Note.Core.dll
+C:\Users\Charly\source\repos\Note\Note.Core\obj\Debug\netstandard2.0\Note.Core.pdb
